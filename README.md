@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TrabalhoFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# BalaioLivros-frontend
+Trabalho Engenharia de Software II, MATA63. Frontend da aplicação Balaio de Livros, aplicação para venda e troca de livros situafo
+>>>>>>> 0ba11fdb1e9f0537888c36f53cd0ce3d62c797d1
